@@ -204,3 +204,20 @@ footer textarea{
     padding: 5px 10px;
     margin-bottom: 20px;
 }
+
+
+/* responsive modification */
+
+@media screen and (max-width: 576px) {
+    .skills-container{
+        flex-direction: column;
+    }
+}
+
+
+
+
+
+.hide{
+    display: none;
+}
