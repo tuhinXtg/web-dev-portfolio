@@ -209,10 +209,10 @@ footer textarea{
 /* responsive modification */
 
 @media screen and (max-width: 576px) {
-    .skills-container, .resume-container, .secondary-bg{
+    .skills-container, .resume-container, .secondary-bg, .about-items{
         flex-direction: column;
     }
-    footer{
+    footer, .about{
         padding: 20px 20px;
     }
     .footer-column{
